@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-xc, -std=c89, -Wall, -Wextra, -Wpedantic, -Wno-empty-translation-unit]
